@@ -22,4 +22,7 @@ tilda_assets
 .idea
 .pytest_cache
 venv
+<<<<<<< HEAD
 /env/
+=======
+>>>>>>> dc496e0cee9a8e2da24127fc6792827aae6fb687
